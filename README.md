@@ -2,7 +2,7 @@
 
 # Blynk DTH11 Sensor
 
->A Sensor Mote using [Particle Photon](https://docs.particle.io/photon/) that comunicates via Wifi with [Blynk App](https://blynk.io/)
+>A Sensor Mote using [Particle Photon](https://docs.particle.io/photon/) that communicates via Wifi with [Blynk App](https://blynk.io/)
 
 ## Libraries
 This projects uses several libraries:
