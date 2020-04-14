@@ -38,6 +38,14 @@ If you still have doubts regarding how to setup Blynk to use this project, follo
 
 ## Development
 
+### Install dependencies (libraries)
+
+For installing the dependencies on [project.properties](project.properties). More info in the section of ```project.properties``` below.
+
+`particle library install --vendored`
+
+This will create a `/lib` folder for you.
+
 Every new Particle project is composed of 3 important elements that you'll see have been created in your project directory for dth11-sensor.
 
 #### ```/src``` folder:
